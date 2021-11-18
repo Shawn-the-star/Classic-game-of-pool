@@ -13,7 +13,7 @@ function generateMainMenuLabels(headerText){
             "100px"
         ),
         new Label(
-            "By Shawn", 
+            "By Prathmesh", 
             new Vector2(1250,700),
             Vector2.zero,
             "white",
